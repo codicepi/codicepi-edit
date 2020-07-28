@@ -2,3 +2,6 @@
 *.tmp
 ~*.*#
 *~
+
+# PDF files
+*.pdf
