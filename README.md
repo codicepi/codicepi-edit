@@ -1,3 +1,5 @@
+![](icon128.png)
+
 # Codice di prevenzione incendi
 
 > Sorry, this repository is in Italian only.
