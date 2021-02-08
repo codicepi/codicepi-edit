@@ -1,6 +1,6 @@
 # temporary Libreoffice files
 *.tmp
-~*.*#
+.~*.*#
 *~
 
 # PDF files
